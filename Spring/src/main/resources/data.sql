@@ -1,0 +1,6 @@
+insert into Todo(id,description,done,date) values(10001,'Narayan learn JPA', false ,sysdate())
+insert into Todo(id,description,done,date) values(10002,'Narayan learn Microservices', false ,sysdate())
+insert into Todo(id,description,done,date) values(10003,'Narayan learn Something', false ,sysdate())
+insert into Todo(id,description,done,date) values(10004,'Narayan learn Dance', false ,sysdate())
+insert into Todo(id,description,done,date) values(10005,'Narayan learn Xyz', false ,sysdate())
+insert into Todo(id,description,done,date) values(10006,'Narayan learn Gym', false ,sysdate())
